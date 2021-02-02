@@ -1,0 +1,23 @@
+body{
+	color: #000000;
+	font-family: Comic Sans MS, Verdana, sans-seriff;
+	width: 750px;
+	margin: 2px;
+	text-align: center;
+	align-items: center;
+	margin: 20px 270px;
+}
+
+h1 {
+	background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,108,1) 34%, rgba(0,212,255,1) 100%);
+	padding: 10px;
+	text-align: center;
+	font-size: 2.7em;
+	text-decoration: underline;
+}
+
+li{
+	list-style-position: inside;
+	list-style-type: square;
+
+}
